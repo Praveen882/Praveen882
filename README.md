@@ -27,6 +27,7 @@ CONTENTS:
 
 - :surfer: Posters
      - [Sale](https://github.com/Praveen882/Edit_Photos/commit/39eedbc017be9e052dcd8152e2ff3297de9eafe8)
+     - [Emoji](https://github.com/Praveen882/Edit_Photos/commit/90c1bda6f6a4d7c27a4de3abaea7b43dd2693dca)
     
 - :arrows_counterclockwise: gifs
      - [loop](https://github.com/Praveen882/Edit_Photos/commit/519140949422d45b38c01b7fcd6185cacd96f9c3#diff-df4476b23f110ba67be27c996ccd8f731f1095a241e38fd5b8ba8fcccb10a445)
