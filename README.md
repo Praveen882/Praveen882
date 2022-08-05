@@ -20,5 +20,7 @@ Hi 👋, I'm Praveen
 
 CONTENTS:
 
+Wallpapers 
 
-🔭 Wallpapers [AN!MA](https://github.com/Praveen882/Edit_Photos/commit/1fbb88cdc3e0ea508c5c4654af57ffb327ab3034)
+Wallpapers
+[AN!MA](https://github.com/Praveen882/Edit_Photos/commit/1fbb88cdc3e0ea508c5c4654af57ffb327ab3034)
