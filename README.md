@@ -1,6 +1,6 @@
 Hi 👋, I'm Praveen
 
-- 🔭 I’m currently learning on [UI/UX Design](https://www.udemy.com/user/praveen-n-125/)
+- 🔭 I’m currently learning [UI/UX Design](https://www.udemy.com/user/praveen-n-125/)
 
 - 🌱 I’m currently learning **Photoshop**
 
