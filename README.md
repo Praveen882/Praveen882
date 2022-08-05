@@ -26,6 +26,8 @@ CONTENTS:
      - [BIKE](https://github.com/Praveen882/Edit_Photos/commit/9f59e07274cdab9a3ef94c4f213006fdeab3dbd7#diff-c880301db3a6828842a4932309b0f286dd2a39f897c5d43535292beae8cf8638)
      - [Quote](https://github.com/Praveen882/Edit_Photos/commit/c29706ff1138f23c137e541d69897d8cc57a92f9)
 
+- Ⓜ️: Mockups
+     -[Product_Design](https://github.com/Praveen882/Edit_Photos/tree/main/PRODUCT__DESIGN)
 - :surfer: Posters
      - [Sale](https://github.com/Praveen882/Edit_Photos/commit/39eedbc017be9e052dcd8152e2ff3297de9eafe8)
      - [Emoji](https://github.com/Praveen882/Edit_Photos/commit/90c1bda6f6a4d7c27a4de3abaea7b43dd2693dca)
