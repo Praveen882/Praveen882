@@ -1,4 +1,5 @@
 Hi 👋, I'm Praveen
+  A passionate graphic designer from India
 
 - 🔭 I’m currently learning [UI/UX Design](https://www.udemy.com/user/praveen-n-125/)
 
