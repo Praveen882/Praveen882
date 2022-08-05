@@ -24,6 +24,7 @@ CONTENTS:
      - [AN!MA](https://github.com/Praveen882/Edit_Photos/commit/1fbb88cdc3e0ea508c5c4654af57ffb327ab3034)
      - [HAKUNA_MATATA](https://github.com/Praveen882/Edit_Photos/commit/b3a04ebfca768d18539905daaade4f24d4a1448f#diff-fdd4bcb6e306b2adc9d63707a03a4b07d1660bfd69a9075390c5440cab21853f)
      - [BIKE](https://github.com/Praveen882/Edit_Photos/commit/9f59e07274cdab9a3ef94c4f213006fdeab3dbd7#diff-c880301db3a6828842a4932309b0f286dd2a39f897c5d43535292beae8cf8638)
+     - [Quote](https://github.com/Praveen882/Edit_Photos/commit/c29706ff1138f23c137e541d69897d8cc57a92f9)
 
 - :surfer: Posters
      - [Sale](https://github.com/Praveen882/Edit_Photos/commit/39eedbc017be9e052dcd8152e2ff3297de9eafe8)
