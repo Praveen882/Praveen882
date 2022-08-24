@@ -27,6 +27,8 @@ CONTENTS:
      - [Paula](https://github.com/Praveen882/FIGMA/commit/28e38fcb4ac3187209e4a99fafed1eef0a1d46ea)
      - [Wire_Frame](https://github.com/Praveen882/FIGMA/commit/61a251daa67bff822cf296ea339a4e690c95bf07#diff-fb3fbeab194d9a9e97ac06e6a281ba9e6c851f9c0ecb900709d74f16ab251508)
      - [moodboard](https://github.com/Praveen882/FIGMA/commit/d95a00c046f744f3a6e1b332ff28df2f2c4bae31)
+- :iphone: Thumbnail
+     - [Youtube Thumbnail](https://github.com/Praveen882/Edit_Photos/commit/29889e811c711fd32dee7926d342322be12ed909#diff-0b28d71528c85da1d7019b44faca3b9da76f0e645c42d7cfe8b142427ad284d6)
 - :boat: Wallpapers 
      - [AN!MA](https://github.com/Praveen882/Edit_Photos/commit/1fbb88cdc3e0ea508c5c4654af57ffb327ab3034)
      - [HAKUNA_MATATA](https://github.com/Praveen882/Edit_Photos/commit/b3a04ebfca768d18539905daaade4f24d4a1448f#diff-fdd4bcb6e306b2adc9d63707a03a4b07d1660bfd69a9075390c5440cab21853f)
