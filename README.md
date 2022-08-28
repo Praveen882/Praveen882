@@ -22,6 +22,7 @@ CONTENTS:
 
 - :mortar_board: UI/UX Design
      - [Certification](https://github.com/Praveen882/FIGMA/commit/006824a5eaffe4e1746b9f7964993b36e6d3d19a#diff-a403cdbc2d9382a55e0c4df66d891496e4c4139084969e25c4887f7b9e38e90b)
+     - [Calculator](https://github.com/Praveen882/FIGMA/commit/915253c5b3453896f347ec00d6dd0cf42925e4e2#diff-f7f725dd08bb1700a789af141bef7ced12c0f1e20e5403f91f392cc7f080c12a)
      - [Weather_App](https://github.com/Praveen882/FIGMA/commit/bb0142aaf4c863d8d8a851f0988da44d8318b07a)
      - [Loginpage](https://github.com/Praveen882/FIGMA/commit/6542529fa9a4bf98f080cd8e8e48ff3afed8653a#diff-4ecb36f6d631377c63e74185e946520d9d514666cb90d5f91e38695732778d08)
      - [Paula](https://github.com/Praveen882/FIGMA/commit/28e38fcb4ac3187209e4a99fafed1eef0a1d46ea)
