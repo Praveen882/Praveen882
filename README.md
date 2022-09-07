@@ -40,6 +40,7 @@ CONTENTS:
 - Ⓜ️ Mockups
      - [Product_Design](https://github.com/Praveen882/Edit_Photos/tree/main/PRODUCT__DESIGN)
 - :surfer: Posters
+     - [Education_info](https://github.com/Praveen882/Edit_Photos/commit/69f6df4397f702da9049ff9ef23ce943771ea54e)
      - [Sale](https://github.com/Praveen882/Edit_Photos/commit/39eedbc017be9e052dcd8152e2ff3297de9eafe8)
      - [Emoji](https://github.com/Praveen882/Edit_Photos/commit/90c1bda6f6a4d7c27a4de3abaea7b43dd2693dca)
     
