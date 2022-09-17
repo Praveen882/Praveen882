@@ -27,7 +27,7 @@ CONTENTS:
      - [Calculator](https://github.com/Praveen882/FIGMA/commit/915253c5b3453896f347ec00d6dd0cf42925e4e2#diff-f7f725dd08bb1700a789af141bef7ced12c0f1e20e5403f91f392cc7f080c12a)
      - [404](https://github.com/Praveen882/FIGMA/commit/adcccff7dca8e97fbc1200b3303891e7173338c9#diff-5155602bdb3329b0d7a3f6f815a6d6d0b4bdc7265f2baa8919ca21a733bf0a0b)
      - [Loginpage](https://github.com/Praveen882/FIGMA/commit/6542529fa9a4bf98f080cd8e8e48ff3afed8653a#diff-4ecb36f6d631377c63e74185e946520d9d514666cb90d5f91e38695732778d08)
-     -[Paula](https://github.com/Praveen882/FIGMA/commit/28e38fcb4ac3187209e4a99fafed1eef0a1d46ea)
+     - [Paula](https://github.com/Praveen882/FIGMA/commit/28e38fcb4ac3187209e4a99fafed1eef0a1d46ea)
      -[Loading_Gif](https://github.com/Praveen882/FIGMA/commit/a01c47370327ced92039b9d7dd4cc9860b2f1258)
      - [Wire_Frame](https://github.com/Praveen882/FIGMA/commit/61a251daa67bff822cf296ea339a4e690c95bf07#diff-fb3fbeab194d9a9e97ac06e6a281ba9e6c851f9c0ecb900709d74f16ab251508)
      - [moodboard](https://github.com/Praveen882/FIGMA/commit/d95a00c046f744f3a6e1b332ff28df2f2c4bae31)
