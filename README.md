@@ -33,6 +33,7 @@ CONTENTS:
      - [moodboard](https://github.com/Praveen882/FIGMA/commit/d95a00c046f744f3a6e1b332ff28df2f2c4bae31)
 - :art: Art&Designs
      - [Shapes](https://github.com/Praveen882/Art_Design/commit/2b002a2eafa0f112ef5c06da49fdcb4a5130b51e)
+     - [orange logo](https://github.com/Praveen882/my_img/commit/2b487a65aebfcfea9c5b28423693f8f93b7a3646)
 - :iphone: Thumbnail
      - [Youtube Thumbnail](https://github.com/Praveen882/Edit_Photos/commit/29889e811c711fd32dee7926d342322be12ed909#diff-0b28d71528c85da1d7019b44faca3b9da76f0e645c42d7cfe8b142427ad284d6)
 - :boat: Wallpapers 
