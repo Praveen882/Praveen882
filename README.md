@@ -3,7 +3,7 @@ Hi 👋, I'm Praveen
 
 - 🔭 I’m currently learning [UI/UX Design](https://www.udemy.com/user/praveen-n-125/)
 
-- 🌱 I’m currently learning **Photoshop**
+- 🌱 I completed my internship at HION STUDIOS
 
 - 🤝 I’m looking for help with [Graphic Design Portfolio](https://github.com/Praveen882/praveen_folio)
 
